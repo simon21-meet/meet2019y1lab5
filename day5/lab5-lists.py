@@ -28,4 +28,17 @@ print(one)
 one.sort()
 one.sort
 print(one)
+one=[1,2,3,4]
+two=[7,6,5,4]
+one.reverse()
+print(one)
+one.remove(4)
+print(one)
+three=[3]
+four=three*3
+print (four)
+five=one.copy()
+one.sort()
+print(one)
+print(five)
         
